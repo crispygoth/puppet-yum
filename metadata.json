@@ -57,6 +57,12 @@
       "operatingsystemrelease": [
         "2017"
       ]
+    },
+    {
+      "operatingsystem": "VirtuozzoLinux",
+      "operatingsystemrelease": [
+        "7"
+      ]
     }
   ],
   "requirements": [
